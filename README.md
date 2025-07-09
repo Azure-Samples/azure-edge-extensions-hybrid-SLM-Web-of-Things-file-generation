@@ -1,9 +1,4 @@
 # Hybrid LLM Application for Web-of-Things (WoT) File Generation
-
-![architecture](./images/Design%20of%20Asset%20onboarding%20automation%20with%20LLM.png)
-
-
-
 ## LLM Router(llm-based classifier):
 LLM router for auto selecting edge LLM or OpenAI for WoT generation
 
